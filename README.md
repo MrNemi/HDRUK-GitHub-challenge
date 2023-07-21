@@ -1,1 +1,1 @@
-# HDRUK-Group10-technical-challenge
+# HDRUK-GitHub-practice
